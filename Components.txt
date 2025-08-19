@@ -1,0 +1,7 @@
+Arduino Uno R3 (or ESP32 with same pinouts adjusted)
+
+3 LEDs: Red, Yellow, Green
+
+3 × 220Ω resistors (current limiting)
+
+Breadboard + jumper wires
