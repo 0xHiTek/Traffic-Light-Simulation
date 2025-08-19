@@ -1,0 +1,5 @@
+Red LED: Pin D8 → Resistor → LED anode → Cathode → GND
+
+Yellow LED: Pin D9 → Resistor → LED anode → Cathode → GND
+
+Green LED: Pin D10 → Resistor → LED anode → Cathode → GND
